@@ -2,7 +2,7 @@
 # 填写变量值时请用半角单引号''进行包裹
 export HY2PORT=''
 export TUIC5PORT=''
-export SERV00PASSWORD=''
+export CT8PASSWORD=''
 # 如果使用默认UUID，请删除下一行
 export UUID=''
 
